@@ -46,7 +46,7 @@ def carregar_dados(caminho_arquivo):
 
 
 # Carregar arquivo
-caminho_arquivo = r"H:\Python\3Etapa\exemplo\Tabela 1.1.2.xls"
+caminho_arquivo = r"Tabela 1.1.2.xls"
 
 try:
     df = carregar_dados(caminho_arquivo)
